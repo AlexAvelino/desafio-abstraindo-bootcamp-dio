@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e4ad8cd-56bc-4446-ae7b-7688a8e9b23c" name="Changes" comment="Criando a classe abstrata conteudo e refatorando curso e mentoria">
+    <list default="true" id="2e4ad8cd-56bc-4446-ae7b-7688a8e9b23c" name="Changes" comment="Criando a classe Dev e Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -54,6 +58,20 @@
     "onboarding.tips.debug.path": "C:/Users/Alex/santander - dio/desafio-abstraindo-bootcamp-dio/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-abstraindo-bootcamp-dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717695568036</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criando a classe Dev e Bootcamp">
+      <option name="closed" value="true" />
+      <created>1717697113232</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717697113232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +139,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Criação de mentoria e curso" />
     <MESSAGE value="Criando a classe abstrata conteudo e refatorando curso e mentoria" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando a classe abstrata conteudo e refatorando curso e mentoria" />
+    <MESSAGE value="Criando a classe Dev e Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a classe Dev e Bootcamp" />
   </component>
 </project>
